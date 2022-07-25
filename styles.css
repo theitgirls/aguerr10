@@ -3,6 +3,14 @@ body {
     background-color:LightPink;
     font-family:Geneva, verdana, sans-serif;
 }
-h1 {color:PaleVioletRed; background-color:Pink}
-h2{color:PaleVioletRed; background-color:Pink}
+h1 {
+    color:PaleVioletRed; 
+    background-color:Pink
+    font-family: 'Josefin Sans', sans-serif;
+}
+h2 {
+   color:PaleVioletRed; 
+   background-color:Pink
+   font-family: 'Josefin Sans', sans-serif;
+}
 a{color:PaleVioletRed; background-color:Pink}
