@@ -16,8 +16,12 @@ h2 {
 
 nav {background-color:LightCoral}
 
-nav a {color:LightCoral;}
+nav a {color:white;}
 nav {color:LightCoral;}
 
 nav a:hover {background-color:LightCoral;}
+nav {
+    padding: 50px;
+    
+}
 a{color:PaleVioletRed;}
