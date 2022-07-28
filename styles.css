@@ -21,7 +21,15 @@ nav {color:white;}
 
 nav a:hover {background-color:LightCoral;}
 nav {
-    padding: 50px;
+    padding: 40px;
     
+}
+
+div {
+    border: 1px solid black;
+    margin:30px;
+    padding:50px;
+    background-color: white;
+    border-radius: 25px;
 }
 a{color:PaleVioletRed;}
